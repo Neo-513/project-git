@@ -3,7 +3,7 @@ from itertools import chain
 from git_config import *
 import json
 import math
-import myframework.mycrawler as mc
+import mylibrary.mycrawler as mc
 
 
 def git_commit():
