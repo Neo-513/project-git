@@ -19,8 +19,8 @@ def git_week(date_time):
 
 def git_committer(committer):
 	return {
-		"Neo": "dzr",
-  }.get(committer, committer)
+		"Neo": "dzr"
+	}.get(committer, committer)
 
 
 def git_html(html_type, results, align=True):
