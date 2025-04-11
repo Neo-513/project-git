@@ -2,10 +2,6 @@ PROJECT = {
 	"ecs": {
 		"cookie": "",
 		"id": {
-			"bao-vpn-api": "938",
-			"baoluogate": "353",
-			"baoluo-vpn": "474",
-			"neuron-dashboard": "630",
 			"robot": "338",
 			"robot-wxapp": "1023"
 		},
@@ -18,7 +14,6 @@ PROJECT = {
 	"gitlab": {
 		"cookie": "",
 		"id": {
-			"baoluo-app": "2865",
 			"baoluo-wxapp": "3171",
 			"baorobot-manager": "2791"
 		},
